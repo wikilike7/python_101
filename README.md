@@ -1,2 +1,2 @@
 # python_101
-阅读python 101的笔记
+- 阅读python 101的笔记
