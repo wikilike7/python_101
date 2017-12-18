@@ -13,3 +13,17 @@ for keys in a_dict:
     print(keys + ': ' + str(a_dict[keys]))
 
 
+i = 0
+while i < 10:
+    if i % 2 != 0:
+        print(i)
+    i += 1
+
+
+n = 0
+while n < 10:
+    if n == 5:
+        continue
+    print(n)
+    n += 1
+
